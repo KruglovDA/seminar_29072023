@@ -4,6 +4,6 @@
 
 * git commit - создает коммит
 ## 2. Работа с ветками
-* git branch branch_name - coplftn новую ветку с именем branch_name
+* git branch branch_name - создает новую ветку с именем branch_name
 * git branch - выводит список веток
 git merge - выполняет слияние
