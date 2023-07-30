@@ -5,4 +5,4 @@
 ## 2. Работа с ветками
 git branch - Выводит список веток
 * git branch branch_name - создает новую ветку с именем branch_name
-* git merge - выполняет слияние
+* git merge - выполняет слияние.
